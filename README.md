@@ -1,2 +1,2 @@
-# clase76-v2
-Meteorito de EEI
+# RASTREADOR-EEI-1-REF-MAESTRA
+Código de referencia C76
